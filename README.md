@@ -9,6 +9,9 @@
 - website committee at WiNGHacks
 - discord mod at SwampHacks XII
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IvetteSaldanaHernandez&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvetteSaldanaHernandez&size_weight=0.5&count_weight=0.5&hide=CMake,Makefile&theme=dracula)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=IvetteSaldanaHernandez&show_icons=true&theme=dracula&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvetteSaldanaHernandez&size_weight=0.5&count_weight=0.5&hide=CMake,Makefile&theme=dracula&layout=compact" />
+</a>
