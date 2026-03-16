@@ -1,4 +1,4 @@
-# Hello World, I'm Ivette!
+**Hello World, I'm Ivette!**
 
 **about me**
 - i am a computer science student at the University of Florida.
